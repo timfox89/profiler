@@ -1,0 +1,31 @@
+.profile-form {
+    display: block;
+    padding: 2em 0 0 0;
+
+    .outerFieldset {
+        border: none;
+        line-height: 45px;
+
+        button {
+            margin: -8px 0 0 10px;
+        }
+
+        input {
+            background: #fff;
+        }
+
+        .outerLabel {
+            display: inline-block;
+            font-size: 1.5em;
+            height: 36px;
+            padding: 5px 10px 0 0;
+        }
+    }
+}
+
+.profileData {
+    padding: 2em 0 0 0;
+    img {
+        border-radius: 50%;
+    }
+}
